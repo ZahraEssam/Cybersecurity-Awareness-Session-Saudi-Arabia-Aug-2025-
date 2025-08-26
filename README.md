@@ -1,5 +1,5 @@
 # Cybersecurity-Awareness-Session-Saudi-Arabia-Aug-2025-
-Slides &amp; notes from a beginner‑friendly Cybersecurity Awareness session.
+Slides and notes from a beginner‑friendly Cybersecurity Awareness session.
 
 # Cybersecurity Awareness Session 🇸🇦
 
